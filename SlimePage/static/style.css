@@ -18,8 +18,13 @@ div {
 }
 
 div .container {
+    display: block;
     justify-content: space-between;
 }
+
+/* div h2 {
+    display: block;
+} */
 
 body {
     background-color: aquamarine;
