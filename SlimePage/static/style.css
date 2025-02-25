@@ -1,4 +1,5 @@
 * {
+    font-style: sant-serif;
     background-color: blanchedalmond;
     padding: 0px;
     margin: 0px;
@@ -6,9 +7,7 @@
 
 header {
     display: block;
-    padding: 5px;
     background-color: blueviolet;
-    border-style: solid;
     border-radius: 15px;
 }
 
