@@ -1,5 +1,4 @@
 * {
-    font-style: sant-serif;
     padding: 0px;
     margin: 0px;
 }
@@ -12,6 +11,11 @@ header {
 
 header #title {
     text-align: center;
+}
+
+div .container {
+    display: flex;
+    justify-content: space-between;
 }
 
 body {
