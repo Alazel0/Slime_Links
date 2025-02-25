@@ -1,3 +1,30 @@
 body {
-    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #acacac;
+}
+
+.boton {
+    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+.boton:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.boton:active {
+    transform: scale(0.95);
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
 }
