@@ -1,16 +1,19 @@
 * {
     font-style: sant-serif;
-    background-color: blanchedalmond;
     padding: 0px;
     margin: 0px;
 }
 
 header {
     display: block;
-    background-color: blueviolet;
+    background-color: slateblue;
     border-radius: 15px;
+}
+
+header #title {
     text-align: center;
 }
 
-/* header #title {
-} */
+body {
+    background-color: aquamarine;
+}
