@@ -13,8 +13,11 @@ header #title {
     text-align: center;
 }
 
-div .container {
+div {
     display: flex;
+}
+
+div .container {
     justify-content: space-between;
 }
 
