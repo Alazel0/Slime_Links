@@ -13,5 +13,5 @@ header {
 }
 
 header #title {
-    size: 5px;
+    text-align: center;
 }
