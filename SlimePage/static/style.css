@@ -4,6 +4,8 @@
 
 header {
     display: block;
-    border: 1px solid black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aquamarine;
     border-radius: 15px;
 }
