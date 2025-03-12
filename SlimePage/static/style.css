@@ -19,7 +19,8 @@ div {
 
 div .container {
     display: block;
-    justify-content: space-between;
+    justify-content: center;
+    flex-direction: column;
 }
 
 /* div h2 {
