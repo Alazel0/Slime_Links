@@ -16,8 +16,8 @@ header #title {
 div {
     padding-top: 2em;
     display: flex;
-    align-self: center;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 button .container {
