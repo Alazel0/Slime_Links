@@ -23,6 +23,12 @@ button.container {
     display: flex;
     text-align: left;
     margin-bottom: 1em;
+    border-radius: 0.5em;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(24, 24, 24);
 }
 
 body {
