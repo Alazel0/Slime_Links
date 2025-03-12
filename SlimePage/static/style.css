@@ -21,6 +21,8 @@ body>div {
 
 button .container {
     display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 body {
