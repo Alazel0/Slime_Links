@@ -20,7 +20,7 @@ body>div {
 }
 
 button .container {
-    display: block;
+    display: flex;
 }
 
 /* div h2 {
