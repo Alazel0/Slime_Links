@@ -13,7 +13,7 @@ header #title {
     text-align: center;
 }
 
-div {
+body>div {
     display: flex;
     padding-top: 2em;
     flex-direction: column;
