@@ -23,11 +23,6 @@ button .container {
     display: flex;
 }
 
-.container a {
-    display: flex;
-    align-items: center;
-}
-
 body {
     background-color: rgb(40, 228, 165);
 }
