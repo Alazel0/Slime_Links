@@ -15,12 +15,12 @@ header #title {
 
 div {
     display: flex;
-}
-
-div .container {
-    display: block;
     justify-content: center;
     flex-direction: column;
+}
+
+button .container {
+    display: block;
 }
 
 /* div h2 {
@@ -28,5 +28,5 @@ div .container {
 } */
 
 body {
-    background-color: aquamarine;
+    background-color: rgb(40, 228, 165);
 }
