@@ -18,11 +18,11 @@ div {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    width: 600px;
 }
 
 button .container {
     display: block;
-    width: 600px;
 }
 
 /* div h2 {
