@@ -19,10 +19,9 @@ body>div {
     justify-self: center;
 }
 
-button .container {
+button.container {
     display: flex;
     text-align: left;
-
 }
 
 body {
