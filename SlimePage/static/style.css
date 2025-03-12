@@ -6,7 +6,7 @@
 header {
     display: block;
     background-color: slateblue;
-    border-radius: 5px;
+    border-radius: 0.5em;
 }
 
 header #title {
