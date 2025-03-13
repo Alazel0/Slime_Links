@@ -23,6 +23,13 @@ button.container {
     text-align: left;
     margin-bottom: 1em;
     border-radius: 0.5em;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
 }
 
 a:link {
