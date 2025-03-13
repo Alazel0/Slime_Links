@@ -31,6 +31,10 @@ a:link {
     color: rgb(24, 24, 24);
 }
 
+.subtitulos {
+    margin-top: 0em;
+}
+
 .imagen {
     float: left;
     margin: 10px;
