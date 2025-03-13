@@ -16,7 +16,7 @@ header.encabezado {
     background-image: url('../images/Banner_YT_SG_-_copia.jpg');
     background-size: cover;
     background-position: center;
-    height: 150px;
+    min-height: 12em;
 }
 
 body>div {
@@ -78,4 +78,9 @@ button:hover::after {
 
 body {
     background-image: url('../images/practica_verde.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
