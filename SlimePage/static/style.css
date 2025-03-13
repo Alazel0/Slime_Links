@@ -2,14 +2,21 @@
     margin: 0px;
 }
 
-header {
+/* header {
     display: block;
     background-color: slateblue;
     border-radius: 0.2em;
-}
+} */
 
 header #title {
     text-align: center;
+}
+
+header.encabezado {
+    background-image: url('./images/Banner_YT_SG_-_copia.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
 }
 
 body>div {
