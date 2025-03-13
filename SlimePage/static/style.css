@@ -33,7 +33,7 @@ a:link {
 
 .imagen {
     float: left;
-    margin: 10px;
+    margin: 0px 10px;
     width: 25px;
     height: 25px;
 }
