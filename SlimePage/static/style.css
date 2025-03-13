@@ -13,7 +13,7 @@ header #title {
 }
 
 header.encabezado {
-    background-image: url('/SlimePage/images/Banner_YT_SG_-_copia.jpg');
+    background-image: url('./SlimePage/images/Banner_YT_SG_-_copia.jpg');
     background-size: cover;
     background-position: center;
     height: 150px;
@@ -77,5 +77,5 @@ button:hover::after {
 }
 
 body {
-    background-image: url('/SlimePage/images/practica_verde.jpg');
+    background-image: url('./SlimePage/images/practica_verde.jpg');
 }
