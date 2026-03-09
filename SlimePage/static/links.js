@@ -51,7 +51,6 @@ url:"https://www.facebook.com/SlimeGamer44"
 
 ];
 
-
 const canales = [
 
 {
@@ -76,7 +75,6 @@ url:"https://www.youtube.com/@SlimeDivineSG"
 }
 
 ];
-
 
 function crearLinks(lista, contenedor){
 
@@ -103,7 +101,6 @@ container.appendChild(a);
 });
 
 }
-
 
 crearLinks(comunidad,"comunidad");
 crearLinks(canales,"canales");
