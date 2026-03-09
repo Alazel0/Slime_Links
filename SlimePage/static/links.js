@@ -55,10 +55,10 @@ url:"https://www.facebook.com/SlimeGamer44"
 const canales = [
 
 {
-name:"Slia",
+name:"SplitControl",
 desc:"Canal de narraciones",
 icon:"SlimePage/images/youtube.png",
-url:"https://www.youtube.com/@slia_sg"
+url:"https://www.youtube.com/@SplitControlSG"
 },
 
 {
@@ -66,6 +66,13 @@ name:"Pollo Divino",
 desc:"Bendito sea el Pollo Divino",
 icon:"SlimePage/images/youtube.png",
 url:"https://www.youtube.com/channel/UCWT4zPiEq7jkqgGn96o5I9Q"
+},
+
+{
+name:"Slime Divine",
+desc:"Canal de Reviews",
+icon:"SlimePage/images/youtube.png",
+url:"https://www.youtube.com/@SlimeDivineSG"
 }
 
 ];
